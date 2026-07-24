@@ -1,0 +1,17 @@
+.navbar {
+  height: 80px;
+  background:
+    linear-gradient(to right,
+      #1e3a8a 0%,
+      #1e3a8a 40%,
+      rgba(30, 58, 138, 0.3) 70%,
+      rgba(30, 58, 138, 0) 100%
+    ),
+    url("https://image.idntimes.com/post/20260627/clipdown_27f7e555-187c-43af-8cf9-a8c28671f67a.jpg?tr=w-640");
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  color: white;
+}
